@@ -1,0 +1,64 @@
+ 
+.navtabsul{
+list-style: none;
+padding:50px;
+margin-bottom: 20px;
+}
+
+.navtabsli {
+display: inline-block;
+padding: 10px;
+float: right;
+font-size: 15px;
+
+}
+.button2{
+  background-color: rgba(0,128,96,1);
+  cursor:pointer;
+  border-radius: 5px;
+  
+  font-size: 15px;
+   
+}
+.button2:hover{
+  background-color: rgba(0,110,82,1);
+}
+.button2:active{
+  background-color: rgba(0,94,70,1);
+}
+.button1{
+  cursor:pointer;
+  padding: 0;
+border: none;
+background: none;
+font-size: 15px;
+}
+
+
+/*ul.navtabs{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+    text-align:right;
+    display: inline-block;
+    
+  }
+
+  .navtabstwo{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+    text-align:auto;
+    
+  }
+  li.subnavtabs{
+    float: right;
+  }
+  
+  .button2{
+    background-color: #04AA6D;
+    float: right;
+  }
+    */
